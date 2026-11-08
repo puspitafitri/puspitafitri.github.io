@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://section.3utilities.com/sitemap.xml
+Sitemap: https://section.3utilities.com/sitemap.html
